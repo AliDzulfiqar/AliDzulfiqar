@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello Everyone!
 
-<!--
-**AliDzulfiqar/AliDzulfiqar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub page!**
 
-Here are some ideas to get you started:
+I am a senior year computer science student at Washington State University in Pullman, Washington State.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I put great interest in developing fullstack application, and I do enjoy working in team-environment.
+
+I usually do side projects off-school and learn new techstack on my free time.
+
+As of now, I'm currently investing my time in learning AWS and other cloud service providers. 
+
+**Feel free to reach me out at:**
+
+- LinkedIn: https://www.linkedin.com/in/alidzulfiqar/
+- Professional Email: dzulfiqarmuhammadali@gmail.com
+
+**Also check out my E-Portfolio!** https://alidzulfiqar.github.io/E-Portfolio/
