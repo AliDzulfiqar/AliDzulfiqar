@@ -6,9 +6,7 @@ I am a senior year computer science student at Washington State University in Pu
 
 I put great interest in developing fullstack application, and I do enjoy working in team-environment.
 
-I usually do side projects off-school and learn new techstack on my free time.
-
-As of now, I'm currently investing my time in learning AWS and other cloud service providers. 
+I often do side projects to learn new techstack on my free time.
 
 **Feel free to reach me out at:**
 
