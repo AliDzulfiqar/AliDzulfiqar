@@ -13,4 +13,4 @@ I often do side projects to learn new techstack on my free time.
 - LinkedIn: https://www.linkedin.com/in/alidzulfiqar/
 - Professional Email: dzulfiqarmuhammadali@gmail.com
 
-**Also check out my E-Portfolio!** https://alidzulfiqar.github.io/E-Portfolio/
+**Also check out my E-Portfolio!** https://bit.ly/E-Portfolio/
