@@ -5,7 +5,7 @@ B.S of Computer Science from Washington State University with focus on developin
 
 Currently Building **BuildWebFast: https://instagram.com/BuildWebFast**
 
-Main TechStack Used: ReactJS, Django, PostgreSQL, C#
+Main TechStack Used: ReactJS, Django, PostgreSQL
  
 **Feel free to reach me out at:**
 - LinkedIn: https://www.linkedin.com/in/alidzulfiqar/
