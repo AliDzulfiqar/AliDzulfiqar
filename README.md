@@ -1,6 +1,7 @@
 ## Hello Everyone!
 
 **Welcome to my GitHub page!**
+
 B.S of Computer Science from Washington State University with focus on developing full-stack applications.
 
 Currently Building **BuildWebFast: https://instagram.com/BuildWebFast**
